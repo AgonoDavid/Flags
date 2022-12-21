@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+#wrapper {
+    /* border: 2px solid red; */
+    width: 100%;
+    max-width: 900px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card_container{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+.info {
+    /* margin-top: 25px; */
+}
+.info h3,p{
+    font-size: 2rem;
+    margin: 10px 0;
+}
+.image_container{
+    width: 100%;
+    height:100px;
+}
+
+.image_container img{
+    width: 100%;
+    height: 100px;
+}
