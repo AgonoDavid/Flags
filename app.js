@@ -3,13 +3,13 @@ const container = document.getElementById("wrapper");
 const details = [
   {
     id: 1,
-    name: "Nigeria",
+    name: "Germany",
     Country_code: 001,
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
   },
   {
     id: 2,
-    name: "Spain",
+    name: "Argentina",
     Country_code: 002,
     img:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
   },
